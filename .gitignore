@@ -1,0 +1,11 @@
+node_modules/
+cypress/plugins
+cypress/support
+cypress/screenshots
+cypress/videos
+
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
